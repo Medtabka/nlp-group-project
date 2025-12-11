@@ -3,6 +3,7 @@
 ## Authors
 - Mohamed Tabka
 - Aziz Fridhi
+- Adam Khan
 
 ## Description
 This project implements:
